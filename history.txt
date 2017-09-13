@@ -66,3 +66,104 @@
    66  cd darbi
    67  history
    68  history > history.txt
+   69  ls -la
+   70  cat history.txt
+   71  ls -la
+   72  git init
+   73  git add .
+   74  git config --global user.name v.smetskaja@gmail.com
+   75* 
+   76  git config --global user.email v.smetskaja@gmail.com
+   77  git commit -m "20170913_14:00"
+   78  git remote add origin https://github.com/victoriasmetskaya/DMI.git
+   79  git push origin master
+   80  history
+   81  mkdir apaksdarbi
+   82  cd apaksdarbi
+   83  ls -l
+   84  cd ..
+   85  ls -l
+   86  cd apaksdarbi
+   87  history > vesture.txt
+   88  ls -la
+   89  cd ..
+   90  rmdir apaksdarbi
+   91  man rmdir
+   92  rm apaksdarbi
+   93  man rm
+   94  rm -rf apaksdarbi
+   95  cd
+   96  ls
+   97  mkdir apaksdarbi
+   98  ls
+   99  rmdir apaksdarbi
+  100  cd ..
+  101  rm dev1
+  102  ls
+  103  cd
+  104  cd darbi
+  105  echo Tecmint is a community
+  106  x=10
+  107  echo the value of variable x = $x
+  108  x = $x
+  109  x=5
+  110  echo x = $x
+  111  echo -e "hi \swhat s\e up"
+  112  echo -e "Hey \bhey hey"
+  113  echo -e "hey \nhey \nhey"
+  114  echo -e "hey \they \they hey"
+  115  echo -e "hey \nhey \they"
+  116  echo -e "hey \vhey\vhey"
+  117  echo -e "V\vI\vK\vA"
+  118  echo -e "hey \v\nhey \v\nhey"
+  119  echo -e "what \r is going on"
+  120  echo -e "what is \rgoing on"
+  121  echo -e "erljerotje;tjet;etaegnaro \rmeow"
+  122  echo -e "12345678 \rwhat"
+  123  echo -e "?????????? \rwhat is going on"
+  124  echo -e "what is \cgoing on"
+  125  echo "chto"
+  126  echo -n "hello world"
+  127  echo -n "hello world "
+  128  echo -e "hello \ahello\ahello"
+  129  echo *
+  130  echo -e "\n\thello \n\tworld"
+  131  echo *.txt
+  132  echo *.jpeg
+  133  echo "Teksts"
+  134  echo "Texts" > a.txt
+  135  ls -la
+  136  cat a.txt
+  137  echo "tekststeksts" > b.txt
+  138  ls -la
+  139  man ls > ls_komandas_apraksts
+  140  ls
+  141  cat a.txt > d.txt
+  142  cat b.txt > d.txt
+  143  ls -l
+  144  cat b.txt >> d.txt
+  145  ls -l
+  146  cp d.txt dd.txt
+  147  cp c.txt ../c1.txt
+  148  a.txt ../a1.txt
+  149  cd
+  150  cd darbi
+  151  cp a.txt ../a1.txt
+  152  `
+dfg
+cd
+  153  ~
+  154  cd
+  155  ls -l
+  156  cp a1.txt darbi/a2.txt
+  157  cd darbi
+  158  ls -l
+  159  cd
+  160  cd /
+  161  mv ~/darbi/ls_komandas_apraksts ~/
+  162  cd
+  163  ls -l
+  164  cd darbi
+  165  ls -l
+  166  git add .
+  167  history > history.txt

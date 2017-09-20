@@ -1,39 +1,52 @@
     1  VirtualBox --startvm XP
     2  ls
+izveidot skriptu
     3  nano git-download.sh
     4  ls -l
     5  cat git-download.sh 
     6  git-download
+parada vietas kur sistema mekle komandas
     7  echo $PATH
+vieta kur atrodas fails ls
     8  whereis ls
     9  ls -l
    10  ls -l /bin/ls
+izlasit ls faila aprakstu
    11  cat /bin/ls
    12  ls -l
    13  pwd
+pieskirt lai sistema lasa komandas no /home/user
    14  PATH=$PATH:/home/user
    15  echo $PATH 
    16  git-download
    17  git-download.sh
    18  ls -l git-download.sh
+
    19  ls -l /bin/ls
+pieskirt failam tiesibas rwx
    20  chmod 744 git-download.sh
    21  ls -l
    22  git-download
    23  git-download.sh
    24  ls -l
+rename failu
    25  mv git-download.sh git-download
    26  ls -l
    27  git-download 
    28  cd DMI
    29  ls
    30  ls -la
+no home mapas parnest failu uz sekojosu 
    31  mv ../git-download ./ 
    32  ls
+lai sistema lasa komandas no mapes DMI
    33  PATH=$PATH:~/DMI
    34  git-download 
    35  ls -l
+dzest mapi DMI
    36  rm -rf DMI/
    37  ls
+izveidot skriptu
    38  nano git-upload
+izveidot jaunu history ar sodianas datumu
    39  history > history_20170920.txt

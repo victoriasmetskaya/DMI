@@ -1,0 +1,42 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/victoriasmetskaya/DMI.git
+    3  ls -l
+    4  cd DMI
+    5  ls -la
+    6  name="vika"
+    7  echo name
+    8  echo $name
+    9  readonly name
+   10  name="kika"
+   11  unset variable_name
+   12  name="aa"
+   13  unset name
+   14  echo name
+   15  echo $name
+   16  unset variable_name
+   17  echo $name
+   18  unset name
+   19  v1=123
+   20  echo $v1
+   21  unset v1
+   22  echo $v1
+   23  v1="hahaha"
+   24  echo $v1
+   25  nano shell_examples.sh
+   26  ls -la
+   27  PATH=$PATH:~/DMI
+   28  echo $PATh
+   29  echo $PATH
+   30  chmod 744 shell_examples.sh 
+   31  shell_examples.sh 
+   32  ls -la
+   33  nano shell_examples.sh 
+   34  shell_examples.sh 
+   35  nano shell_examples.sh 
+   36  shell_examples.sh 
+   37  nano shell_examples.sh 
+   38  shell_examples.sh 
+   39  nano shell_examples.sh 
+   40  shell_examples.sh 
+   41  ls -l
+   42  history > history_20170927.txt

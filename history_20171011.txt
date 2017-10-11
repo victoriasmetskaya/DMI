@@ -1,0 +1,68 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/victoriasmetskaya/DMI.git
+    3  cd DMI
+    4  val='expr 2+2'
+    5  echo val
+    6  echo $val
+    7  val='expr 2 + 2'
+    8  echo $val
+    9  echo "$val"
+   10  val=`expr 2+2`
+   11  echo $val
+   12  val=`expr 2 + 2`
+   13  echo $val
+   14  a=10
+   15  b=20
+   16  rez=`expr $a+$b`
+   17  echo $rez
+   18  rez=`expr $a + $b`
+   19  echo $rez
+   20  reiz=`expr $a \* $b`
+   21  echo $reiz
+   22  dal=`expr $a / $b`
+   23  echo $dal
+   24  dall=`expr $b / $a`
+   25  echo $dall
+   26  nano matematika.sh
+   27  matematika.sh
+   28  PATH=$PATH:~/DMI
+   29  matematika.sh
+   30  chmod 744 matematika.sh
+   31  matematika.sh
+   32  nano matematika.sh 
+   33  matematika.sh
+   34  nano matematika.sh 
+   35  matematika.sh
+   36  nano matematika.sh 
+   37  matematika.sh
+   38  nano matematika.sh 
+   39  matematika.sh
+   40  nano matematika.sh 
+   41  matematika.sh
+   42  la -la
+   43  matematika.sh
+   44  ./matematika.sh 
+   45  nano matematika.sh 
+   46  ./matematika.sh 
+   47  nano matematika.sh 
+   48  ./matematika.sh 
+   49  nano matematika.sh 
+   50  ./matematika.sh 
+   51  nano matematika.sh 
+   52  ./matematika.sh 
+   53  nano matematika.sh 
+   54  ./matematika.sh 
+   55  nano matematika.sh 
+   56  ./matematika.sh 
+   57  nano matematika.sh 
+   58  ./matematika.sh 
+   59  nano matematika.sh 
+   60  ./matematika.sh 
+   61  nano matematika.sh 
+   62* 
+   63  nano matematika.sh 
+   64  cal
+   65  time
+   66  nano git-upload
+   67  git-upload
+   68  history > history_20171011.txt

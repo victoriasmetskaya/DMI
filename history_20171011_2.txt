@@ -1,0 +1,40 @@
+    1  git clone
+    2  sudo apt-get install git
+    3  apt-get update
+    4  ps aux
+    5  apt-get update
+    6  ps aux
+    7  grep apt
+    8  ls -la
+    9  nano matematika.sh 
+   10  ./matematika.sh 5 4 
+   11  ./matematika.sh
+   12  nano matematika.sh 
+   13  ./matematika.sh 5 4
+   14  nano matematika.sh 
+   15  ./matematika.sh 
+   16  ./matematika.sh 5 6
+   17  nano matematika.sh 
+   18  ./matematika.sh
+   19  ./matematika.sh 5 6 
+   20  nano matematika.sh 
+   21  ./matematika.sh 5 6 
+   22  ./matematika.sh 55 47
+   23  nano matematika.sh 
+   24  ./matematika.sh 
+   25  nano matematika.sh 
+   26  ./matematika.sh 
+   27  ./matematika.sh 55 47
+   28  ./matematika.sh 55 47 55
+   29  nano matematika.sh 
+   30  nano dialogs.sh
+   31  ./dialogs.sh
+   32  nano dialogs.sh
+   33  chmod 744 dialogs.sh
+   34  ./dialogs.sh
+   35  nano dialogs.sh
+   36  ./dialogs.sh
+   37  nano dialogs.sh
+   38  ./dialogs.sh
+   39  nano git-upload
+   40  history > history_20171011_2.txt

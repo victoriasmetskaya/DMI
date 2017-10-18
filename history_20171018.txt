@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/victoriasmetskaya/DMI.git
+    3  la -la
+    4  ls -la
+    5  dc DMI
+    6  cd DMI
+    7  nano matematika.sh 
+    8  nano dialogs.sh
+    9  nano a_vs_b.sh
+   10  chmode a_vs_b.sh 744
+   11  chmod a_vs_b.sh 744
+   12  chmod 744 a_vs_b.sh 
+   13  ./a_vs_b.sh 
+   14  nano a_vs_b.sh 
+   15  ./a_vs_b.sh 
+   16  nano a_vs_b.sh 
+   17  ./a_vs_b.sh 
+   18  nano a_vs_b.sh 
+   19  ./a_vs_b.sh 
+   20  nano a_vs_b.sh 
+   21  ./a_vs_b.sh 
+   22  nano a_vs_b.sh 
+   23  ./a_vs_b.sh 
+   24  nano a_vs_b.sh 
+   25  ./a_vs_b.sh 
+   26  nano a_vs_b.sh 
+   27  ./a_vs_b.sh 
+   28  nano a_vs_b.sh 
+   29  ./a_vs_b.sh 
+   30  nano a_vs_b.sh 
+   31  ./a_vs_b.sh 
+   32  nano a_vs_b.sh 
+   33  ./a_vs_b.sh 
+   34  nano a_vs_b.sh 
+   35  ./a_vs_b.sh 
+   36  nano a_vs_b.sh 
+   37  ./a_vs_b.sh 
+   38  nano a_vs_b.sh 
+   39  ./a_vs_b.sh 
+   40  nano a_vs_b.sh 
+   41  ./a_vs_b.sh 
+   42  nano a_vs_b.sh 
+   43  ./a_vs_b.sh 
+   44  nano a_vs_b.sh 
+   45  ./a_vs_b.sh 
+   46  nano a_vs_b.sh 
+   47* 
+   48  ./a_vs_b.sh 
+   49  nano a_vs_b.sh 
+   50  ifconfig
+   51  me
+   52  who
+   53  ./a_vs_b.sh 
+   54  nano a_vs_b.sh 
+   55  5
+   56  6
+   57  ./a_vs_b.sh 
+   58  nano a_vs_b.sh 
+   59  5
+   60  ./a_vs_b.sh 
+   61  nano a_vs_b.sh 
+   62  ./a_vs_b.sh 
+   63  nano a_vs_b.sh 
+   64  history > history_20171018.txt

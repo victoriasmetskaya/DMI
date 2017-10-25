@@ -1,0 +1,101 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/victoriasmetskaya/DMI.git
+    3  cd DMI 
+    4  ls -la
+    5  ./a_b_c.sh 
+    6  nano if.sh
+    7  chmod 744 if.sh 
+    8  ./if.sh 2
+    9  nano if.sh
+   10  cp a_vs_b.sh stats.sh
+   11  nano stats.sh
+   12  nano stat_cikl.sh
+   13  ./ stat_cikl.sh 
+   14  ls -l
+   15  chmod 744 stat_cikl.sh 
+   16  ./ stat_cikl.sh 
+   17  nano stat_cikl.sh
+   18  ./stat_cikl.sh 
+   19  nano stat_cikl.sh
+   20  ./stat_cikl.sh 
+   21  nano stat_cikl.sh
+   22  ./stat_cikl.sh 
+   23  ./a_b_c.sh 
+   24  nano stat_cikl.sh
+   25  ./stat_cikl.sh 
+   26  nano stat_cikl.sh
+   27  ./stat_cikl.sh 
+   28  nano stat_cikl.sh
+   29  ./stat_cikl.sh 
+   30  nano stat_cikl.sh
+   31  nano a_b_c.sh 
+   32  nano stat_cikl.sh
+   33  ./stat_cikl.sh 
+   34  nano stat_cikl.sh
+   35  ./stat_cikl.sh 
+   36  nano stat_cikl.sh
+   37  ./stat_cikl.sh 
+   38  nano stat_cikl.sh
+   39  ./stat_cikl.sh 
+   40  nano stat_cikl.sh
+   41  ./stat_cikl.sh 
+   42  nano stat_cikl.sh
+   43  ./stat_cikl.sh 
+   44  nano stat_cikl.sh
+   45  nano array_loop.sh
+   46  chmod 744 array_loop.sh 
+   47  ./array_loop.sh 
+   48  ./array_loop.sh 5 4 45 6 5
+   49  nano array_loop.sh
+   50  ./array_loop.sh 5 4 45 6 5
+   51  nano array_loop.sh
+   52  ./array_loop.sh 5 4 45 6 5
+   53  nano array_loop.sh
+   54  ./array_loop.sh 5 4 45 6 5
+   55  nano array_loop.sh
+   56  ./array_loop.sh 5 4 45 6 5
+   57  ./array_loop.sh 5 4 45 6 5 5 4
+   58  nano array_loop.sh
+   59  ./array_loop.sh 5 4 45 6 5 5 4
+   60  nano array_loop.sh
+   61  ./array_loop.sh 5 4 45 6 5 5 4
+   62  nano array_loop.sh
+   63  ./array_loop.sh 5 4 45 6 5 5 4
+   64  ./array_loop.sh 1 2 3 4 5 
+   65  nano array_loop.sh
+   66  ./array_loop.sh 1 2 3 4 5 
+   67  nano table.sh
+   68  chmod 744 table.sh 
+   69  ./ table.sh 
+   70  ./table.sh 
+   71  echo -e "h \th"
+   72  nano table.sh
+   73  echo -e "h \th"
+   74  ./table.sh 
+   75  nano table.sh
+   76  ./table.sh 
+   77  nano table.sh
+   78  ./table.sh 
+   79  nano table.sh
+   80  ./table.sh 
+   81  nano table.sh
+   82  nano array_loop.sh 
+   83  nano table.sh
+   84  ./table.sh 
+   85  nano table.sh
+   86  ./table.sh 
+   87  nano table.sh
+   88  ./table.sh 
+   89  nano table.sh
+   90  ./table.sh 
+   91  nano table.sh
+   92  nano askaits.sh
+   93  chmod 744 askaits.sh
+   94  ./askaits.sh 
+   95  nano askaits.sh
+   96  ./askaits.sh 
+   97  nano askaits.sh
+   98  ./askaits.sh 
+   99  nano askaits.sh
+  100  history > history 251017_15_50
+  101  history > history_251017_15_50

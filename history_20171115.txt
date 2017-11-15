@@ -1,0 +1,34 @@
+    1  git clone
+    2  sudo apt-get install git
+    3  apt-get update
+    4  ps aux
+    5  apt-get update
+    6  ps aux
+    7  grep apt
+    8  git clone https://github.com/victoriasmetskaya/DMI.git
+    9  sudo apt-get install idle
+   10  cd DMI
+   11  ls -l
+   12  cd PYTHON/
+   13  ls -l
+   14  ./if.py 
+   15  ./hello.py 
+   16  nano sin_caur_sum_v1.py
+   17  python sin_caur_sum_v1.py 
+   18  nano sin_caur_sum_v1.py
+   19  python sin_caur_sum_v1.py 
+   20  nano sin_caur_sum_v1.py
+   21  python sin_caur_sum_v1.py 
+   22  python sin_caur_sum_v1.py 1.
+   23  nano sin_caur_sum_v1.py
+   24  python sin_caur_sum_v1.py 
+   25  cp sin_caur_sum_v1.py sin_caur_sum_v2.py 
+   26  nano sin_caur_sum_v2.py 
+   27  python sin_caur_sum_v2.py 
+   28  cp sin_caur_sum_v1.py sin_caur_sum_v3.py
+   29  nano sin_caur_sum_v3.py 
+   30  cp sin_caur_sum_v2.py sin_caur_sum_v3.py 
+   31  nano sin_caur_sum_v3.py 
+   32  python sin_caur_sum_v3.py 
+   33  cd ..
+   34  history > history_20171115.txt

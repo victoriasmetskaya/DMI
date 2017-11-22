@@ -1,0 +1,76 @@
+    1  git clone
+    2  sudo apt-get install git
+    3  apt-get update
+    4  ps aux
+    5  apt-get update
+    6  ps aux
+    7  grep apt
+    8  cd DMI
+    9  cd PYTHON/
+   10  ls -l
+   11  cp sin_caur_sum_v3.py sin_2.py
+   12  nano sin_2.py 
+   13  python sin_2.py 
+   14  rm sin_2.py 
+   15  nano sin_caur_sum_v2
+   16  nano sin_caur_sum_v3.py 
+   17  python sin_caur_sum_v3.py 
+   18  idl 
+   19  idle 
+   20  nano sin_caur_sum_v3.py 
+   21  python sin_caur_sum_v3.py 
+   22  nano sin_caur_sum_v3.py 
+   23  cp sin_caur_sum_v3.py sin_caur_sum_v4.py
+   24  nano sin_caur_sum_v4.py 
+   25  python sin_caur_sum_v4.py 
+   26  nano sin_caur_sum_v4.py 
+   27  python sin_caur_sum_v4.py 
+   28  nano sin_caur_sum_v4.py 
+   29  python sin_caur_sum_v4.py 
+   30  nano sin_caur_sum_v4.py 
+   31  python sin_caur_sum_v4.py 
+   32  cp sin_caur_sum_v5.py sin_caur_sum.py
+   33  cp sin_caur_sum_v5 sin_caur_sum.py
+   34  cp sin_caur_sum_v4.py sin_caur_sum.py
+   35  nano sin_caur_sum.py 
+   36  python sin_caur_sum.py 
+   37  nano sin_caur_sum.py 
+   38  python sin_caur_sum.py 
+   39  nano sin_caur_sum.py 
+   40  ls -l
+   41  ./hello.py
+   42  nano sin_caur_sum.py 
+   43  python sin_caur_sum.py 
+   44  nano sin_caur_sum.py 
+   45  python sin_caur_sum.py 
+   46  nano sin_caur_sum.py 
+   47  python sin_caur_sum.py 
+   48  cp sin_caur_sum.py mans_sinx/2.py
+   49  cp sin_caur_sum.py mans_sin.py
+   50  nano mans_sin.py 
+   51  python mans_sin.py 
+   52  nano mans_sin.py 
+   53  python mans_sin.py 
+   54  nano mans_sin.py 
+   55  python mans_sin.py 
+   56  nano mans_sin.py 
+   57  python mans_sin.py 
+   58  nano mans_sin.py 
+   59  python mans_sin.py 
+   60  nano mans_sin.py 
+   61  python mans_sin.py 
+   62  nano mans_sin.py 
+   63  python mans_sin.py 
+   64  nano if.py 
+   65  python mans_sin.py 
+   66  nano mans_sin.py 
+   67  python mans_sin.py 
+   68  nano if.py 
+   69  nano mans_sin.py 
+   70  nano if.py 
+   71  python mans_sin.py 
+   72  nano mans_sin.py 
+   73  python mans_sin.py 
+   74  nano mans_sin.py 
+   75  python mans_sin.py 
+   76  history > history_20171122.txt

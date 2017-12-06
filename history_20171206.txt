@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/victoriasmetskaya/DMI.git
+    3  cd DMI
+    4  cd PYTHON/
+    5  ls
+    6  python mans_sin.py 
+    7  idle &
+    8  cd ..
+    9  history > history_20171206.txt

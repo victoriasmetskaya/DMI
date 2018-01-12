@@ -41,32 +41,25 @@ fi
 echo $pirmais $otrais $tresais
 
 #3. tris skailu salidzinasana
-:<<'END'
-echo "ievadi a"
-read a
-echo "ievadi b"
-read b
-echo "ievadi c"
-read c
 
 if [ $a -gt $b ]
 then
   if [ $a -gt $c ]
   then
-  echo  "a "$a " vislielakais"
+  echo  "maksimala vertiba "$a
   elif [ $b -gt $c ]
   then 
-  echo "b "$b " vislielakais"
+  echo "maksimala vertiba "$b 
   else
- echo "c "$c " vislielakais"
+ echo "maksimala vertiba "$c
   fi
 elif [ $b -gt $c ]
 then 
-echo "b "$b "vislielakais"
+echo "maksimala vertiba "$b
 else
-echo "c "$c "vislielakais"
+echo "maksimala vertiba "$c 
 fi
-END
+
 
 #2. divu skailtu salidzinasana 
 :<<'END'

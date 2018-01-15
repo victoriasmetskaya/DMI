@@ -5,17 +5,19 @@ import matplotlib.pyplot as plt
 
 def mans_sinuss(x):
  k=0 
- a=(-1)**0*x**1/(1) #ja int tad rez = int -vesels skaitlis
+ a=(-1)**0*x**1/(2) #ja int tad rez = int -vesels skaitlis
  s=a
- 
- while k < 5: 
+
+
+ while k < 500: 
   k=k+1
-  a=a*(-1)*x**2/((2*k)*(2*k+1))
+  a=a*(-1)*x**2/(4*(2*k)*(2*k+1))
   s=s+a
+ 
  return s
 
 a=1.57
-b=4.71
+b=7
 x=np.arange(a,b,0.01)
 y=mans_sinuss(x)
 plt.plot(x,y)

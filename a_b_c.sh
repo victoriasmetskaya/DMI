@@ -38,8 +38,12 @@ pirmais=$a
 otrais=$b
 tresais=$c
 fi
+$d=`expr $a*$b*$c/3`
 echo $pirmais $otrais $tresais
-
+echo "maksimala vertiba "$tresais
+echo "minimala vertiba "$pirmais
+echo "mediana "$otrais
+echo "videjais "$d
 #3. tris skailu salidzinasana
 
 if [ $a -gt $b ]
